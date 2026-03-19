@@ -47,3 +47,9 @@ Multi-agent system including:
 - Vaibhav Sharma
 - Abhijay Pansari
 - Sidrah Aaishah
+
+## 📸 Project Preview
+
+![Architecture](architecture.png)
+![Dashboard](dashboard.png)
+![Impact](impact.png)

@@ -49,7 +49,5 @@ Multi-agent system including:
 - Sidrah Aaishah
 
 ## 📸 Project Preview
-
-![Architecture](End-to-End User Journey & System Architecture.png)
 ![Dashboard](Dashboard.jpeg)
 

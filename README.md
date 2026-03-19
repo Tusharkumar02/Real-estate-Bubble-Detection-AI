@@ -52,4 +52,4 @@ Multi-agent system including:
 
 ![Architecture](Multi-AgentArchitecture.jpg)
 ![Dashboard](Dashboard.jpeg)
-![Impact](impact.png)
+

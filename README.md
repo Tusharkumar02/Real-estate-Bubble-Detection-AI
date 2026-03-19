@@ -50,6 +50,6 @@ Multi-agent system including:
 
 ## 📸 Project Preview
 
-![Architecture](Multi-AgentArchitecture.jpg)
+![Architecture](End-to-End User Journey & System Architecture.png)
 ![Dashboard](Dashboard.jpeg)
 

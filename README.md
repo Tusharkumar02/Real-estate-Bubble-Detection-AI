@@ -50,6 +50,6 @@ Multi-agent system including:
 
 ## 📸 Project Preview
 
-![Architecture](architecture.png)
-![Dashboard](dashboard.png)
+![Architecture](Multi-AgentArchitecture.jpg)
+![Dashboard](Dashboard.jpeg)
 ![Impact](impact.png)
